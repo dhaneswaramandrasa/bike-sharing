@@ -34,7 +34,7 @@ https://github.com/dhaneswaramandrasa/bike-sharing.git
 <a name="pro"></a>
 # Project Motivation
 
-This project is aimed to predict bike sharing patterns by using deep learning from scratch.
+This project is aimed to predict bike sharing patterns by using deep learning from scratch (using numpy).
 
 <a name="fil"></a>
 # File Descriptions
